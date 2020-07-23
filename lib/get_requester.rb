@@ -1,6 +1,6 @@
 class GetRequester
   
-  def initialize(URL)
+  def initialize(url)
   end 
   
   def get_response_body
